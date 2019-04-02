@@ -1,0 +1,3 @@
+hostname,username,password,port,sudo
+192.168.1.41,shuowei,shuowei123,22,True
+192.168.1.131,ubuntu,q1w2e3r4,22,True

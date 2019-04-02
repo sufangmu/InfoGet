@@ -8,7 +8,6 @@ import logging
 
 logfile = "infoget.log"
 
-
 # 创建一个 logger
 logger = logging.getLogger('main')
 # 设置一个总的日志级别
